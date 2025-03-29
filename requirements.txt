@@ -2,4 +2,4 @@ streamlit-webrtc
 opencv-python-headless
 ultralytics
 supervision
-opencv-contrib-python
+opencv-contrib-python-headless
